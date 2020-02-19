@@ -1,0 +1,5 @@
+Make sure Powershell is installed if your OS is not windows. 
+https://aka.ms/pscore6-docs
+
+if the sh script is not working, run it in the terminal, or run this in the directory
+"chmod +x 'JSON Validator Unix'.sh"
